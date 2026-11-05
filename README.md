@@ -9,4 +9,4 @@ A single self-contained page (`index.html`) covering:
 - **Black Friday**: the 2026 plan by phase and day against last year, and the commercial calendar.
 - **Actions**: Meta and Google proposals waiting for a go-ahead.
 
-Data is embedded in the page and refreshed on demand. This version has data to 28 October 2026.
+Data is embedded in the page and refreshed on demand. This version has data to 3 November 2026.
